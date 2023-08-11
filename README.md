@@ -3,10 +3,15 @@
 ## I. IDENTIFICACIÓN
 
 
-| Tables        | Are           |
-| ------------- |:-------------:| 
-| **Asignatura:** | Computación Estadística II |
-| **Sigla:**      | EST 351 |
+| Tables        | Are         |
+| ------------- |-------------| 
+| **Asignatura** | Computación Estadística II |
+| **Sigla**      | EST 351 |
+| **Área curricular** |	Estadística y Computación |
+| **Modalidad**	| Semestral |
+| **Nivel semestral** |	Quinto semestre |
+| **Ciclo** | profesionalización |
+| **Pre requisito** |	Computación Estadística I |
 
 
 
