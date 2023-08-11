@@ -29,7 +29,7 @@ Durante muchos años, el modelo de datos relacional ha dominado en el diseño de
 ## IV.	EVALUACIÓN
 
 |Examen	| Temas| Ponderación|	Fecha|
-| ------------- |-------------| ------------- |-------------|  
+| ------------- |-------------| -------------: |-------------|  
 | Primer parcial |	1 -  3 |	30 |    |	
 | Segundo parcial |	4 -  6 |	30	
 | Práctica |		| 12 |  |	
@@ -37,3 +37,17 @@ Durante muchos años, el modelo de datos relacional ha dominado en el diseño de
 |	|  |	102|	|
 
 ## V. BIBLIOGRAFÍA
+- Adoración de M. y Piattini M.  **Fundamentos y Modelos de Base de Datos**. Editorial Alfaomerga Rama.
+- Beeley, C. (2013). **Web Applicaction Development with R Using Shiny**. Publicado por Packt, 110p.
+- Fitzgerald, M. (2012). **Introducing Regular Expressions**. Editorial O’Reilly Media, 154p.
+- Forta, B. (2018). **Learning Regular Expressions**. Editorial Addison-Wesley Professional, 585p.
+- Ricardo, C. M. (2009). **Bases de Datos**. Editorial McGraw-Hill, Interamericana Editores S.A. de C.V.
+- Rockoff, L. (2016). **The Language of SQL**. Editorial Addison-Wesley Professional, 240p.
+- Rockoff, L. (2010). **The Language of SQL: How to Access Data in Relational Databases**, 1ra. edición, impreso por Course Technology PTR, 256p.
+- Sievert, C. (2020). **Interactive Web-Based Data Visualization with R, plotly and shiny**. Editorial Chapman and Hall/CRC, 449p.
+- Silberschatz Abraham, Korth Henry F., Sudarshan S. (2006). **Fundamentos de Diseño de Bases de Datos**. 5a ed. España: McGRAW-HILL- Interamericana de España, 522p.
+- Van der Lans, R. F. (2006). **Introducción to SQL: Mastering the Relational Database Language**. Editorial Addison-Wesley Professional, 4ta. Edición, 1056p.
+- Watt Andrew (2005). **Beginning Regular Expressions**. Editorial Wiley, 271p.
+- Xie Y., Allaire J. J. & Grolemund G. (2019). R Markdown. **The Definitive Guide**. Editorial CRC Press, 280p.
+- Xie Y. (2016). **Bookdown: Authoring Books and Technical Documents with R Markdown**. Editorial Chapman and Hall/CRC, 138p.
+
