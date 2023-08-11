@@ -3,7 +3,7 @@
 ## I. IDENTIFICACIÓN
 
 
-
+| Tables        | Are           |
 | ------------- |:-------------:| 
 | **Asignatura:** | Computación Estadística II |
 | **Sigla:**      | EST 351 |
