@@ -9,16 +9,15 @@
 | **Sigla**      | EST 351 |
 | **Área curricular** |	Estadística y Computación |
 | **Modalidad**	| Semestral |
-| **Nivel semestral** |	Quinto semestre |
-| **Ciclo** | profesionalización |
+| **Nivel** |	Quinto semestre |
+| **Ciclo** | Profesionalización |
 | **Pre requisito** |	Computación Estadística I |
 
 
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| a| b| c|
+|--:|--:|--:|
+| 1| 2| 3|
+| 2| 3| 4|
 
 
 
