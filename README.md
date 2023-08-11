@@ -20,15 +20,16 @@
 ## III. PROGRAMA SINTÉTICO
 
 > 1. Bases de Datos e Internet
-2. Modelo de Datos Relacional
-3. Lenguaje de Datos SQL
-4. Bases de datos No SQL
-5. Expresiones Regulares
-6. Programación Orientada a Eventos
+> 2. Modelo de Datos Relacional
+> 3. Lenguaje de Datos SQL
+> 4. Bases de datos No SQL
+> 5. Expresiones Regulares
+> 6. Programación Orientada a Eventos
+
 
 ## IV.	EVALUACIÓN
 
-|Examen	| Temas| Ponderación|	Fecha|
+> |Examen	| Temas| Ponderación|	Fecha|
 | ------------- |-------------| -------------: |-------------|  
 | Primer parcial |	1 -  3 |	30 |    |	
 | Segundo parcial |	4 -  6 |	30	
@@ -37,7 +38,7 @@
 |	|  |	102|	|
 
 ## V. BIBLIOGRAFÍA
-- Adoración de M. y Piattini M.  **Fundamentos y Modelos de Base de Datos**. Editorial Alfaomerga Rama.
+> - Adoración de M. y Piattini M.  **Fundamentos y Modelos de Base de Datos**. Editorial Alfaomerga Rama.
 - Beeley, C. (2013). **Web Applicaction Development with R Using Shiny**. Publicado por Packt, 110p.
 - Fitzgerald, M. (2012). **Introducing Regular Expressions**. Editorial O’Reilly Media, 154p.
 - Forta, B. (2018). **Learning Regular Expressions**. Editorial Addison-Wesley Professional, 585p.
