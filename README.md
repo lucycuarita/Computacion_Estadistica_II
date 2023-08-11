@@ -6,14 +6,14 @@
 --- | ---
 **Asignatura:** | Computación Estadística II
 **Sigla:** | EST 351 
---- | --- 
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| Tables        | Are           |
+| ------------- |:-------------:| 
+| **Asignatura:** | Computación Estadística II |
+| **Sigla:**      | EST 351 |
+
 
 
 Markdown | Less | Pretty
