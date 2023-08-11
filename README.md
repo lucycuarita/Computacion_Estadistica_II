@@ -3,7 +3,7 @@
 ## I. IDENTIFICACIÓN
 
 
---- | --- 
+--- | ---
 **Asignatura:** | Computación Estadística II
 **Sigla:** | EST 351 
 --- | --- 
